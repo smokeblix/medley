@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@akarui/aoi.music": "^2.3.0",
+    "@akarui/aoi.panel": "github:Aadi980/medley-panel.git",
+    "@discordjs/opus": "^0.9.0",
+    "aoi.js": "^6.2.6",
+    "aoi.parser": "^1.2.5",
+    "axios": "^1.3.5",
+    "ffmpeg-static": "^5.1.0",
+    "spotify-web-api-js": "^1.5.2"
+  }
+}
